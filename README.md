@@ -40,13 +40,13 @@ git clone https://github.com/Ramon-Fernando/chess-system-java
 cd chess-system-java/src
 ```
 
-3. Compilar o código
+3. Compilar o código;
 
 ```bash
 javac application/Program.java
 ```
 
-4. Iniciar o Xadrez
+4. Iniciar o Xadrez.
 
 ```bash
 java application/Program
